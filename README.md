@@ -1,8 +1,4 @@
-<heading>
-  <b>
-    PROFILE
-  </b>
-</heading>
+
 
 <table class="wide">
   <tr>
