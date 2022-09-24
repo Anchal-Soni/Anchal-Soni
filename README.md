@@ -31,6 +31,6 @@
 
 <br>
 <br>
-<br> My CV is available <a href="https://github.com/anchal-soni/anchal-soni/blob/main/AnchalSoni.pdf" target="_blank">here</a> (last updated in August, 2022).
+<br> My CV is available <a href="https://github.com/anchal-soni/anchal-soni/blob/main/AnchalSoni.pdf" target="_blank">here</a> (last updated in August, 2022)
 
 
