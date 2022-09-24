@@ -26,11 +26,11 @@
 
 <b>&nbsp;&nbsp;Education&nbsp;Journey</b>
 <br/>
-- B.Sc. (H) Statistics (2009) from Lady Shri Ram College, University of Delhi
 - M.Sc. Statistics (2011) University of Delhi
+- B.Sc. (H) Statistics (2009) from Lady Shri Ram College, University of Delhi
 
 <br>
 <br>
-<br> My CV is available <a href="https://github.com/anchal-soni/anchal-soni/blob/main/AnchalSoni.pdf" target="_blank">here</a> (last updated in June, 2021).
+<br> My CV is available <a href="https://github.com/anchal-soni/anchal-soni/blob/main/AnchalSoni.pdf" target="_blank">here</a> (last updated in August, 2022).
 
 
