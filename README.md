@@ -1,4 +1,6 @@
-<meta name="google-site-verification" content="jWSCytEBE5TeyvwOInos-OISceLDrQAqJNmNb4t6r3w" />
+<head>
+  <meta name="google-site-verification" content="jWSCytEBE5TeyvwOInos-OISceLDrQAqJNmNb4t6r3w" />
+</head>
 
 <table class="wide">
   <tr>
